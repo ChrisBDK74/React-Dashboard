@@ -1,3 +1,18 @@
+2020 12/15:
+
+React Inventory Dashboard "playground". 
+Let's see what we can get out of it!
+
+/C
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
